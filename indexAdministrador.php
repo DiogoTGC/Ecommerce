@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
+        <title>Administrador</title>
         <link rel="stylesheet" type="text/css" href="css/navbar.css" />
     </head>
     <body>
@@ -20,11 +20,6 @@
             <a href="Transportadora/cadastrarTransportadora.php">Transportadora</a>
             <a href="Categoria/cadastrarCategoria.php">Categoria</a>
             <a href="Produtos/cadastrarProduto.php">Produto</a>
-
-            <h2>Editar/Remover</h2>
-            <a href="Transportadora/listaTrasportadora.php">Transportadora</a>
-            <a href="Categoria/listaCategoria.php">Categoria</a>
-            <a href="Produtos/listaProduto.php">Produto</a>
-        </div>
+            <a href="Images/cadastrarImagens.php">Imagem</a>
     </body>
 </html>

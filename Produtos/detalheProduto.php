@@ -45,7 +45,7 @@
                     echo "<br>";
                 }
 
-                echo '<img style="padding:5px" src="' . $url_imagem . '">';
+                echo '<img style="padding:5px" src="../Images/' . $url_imagem . '">';
 
                 $i += 1;
             }

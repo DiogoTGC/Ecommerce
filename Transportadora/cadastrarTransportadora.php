@@ -9,10 +9,10 @@
     <body>
         <div class="topnav">
             <img src="../images/logo.png" alt="Cabrum" style="width: 5%;" />
-            <a href="Produtos/indexProdutos.php">Produtos</a>
-            <a href="Pedidos/indexPedidos.php">Pedidos</a>
-            <a href="Carrinho/indexCarrinho.php">Carrinho</a>
-            <a href="indexAdministrador.php" class="active">Administrador</a>
+            <a href="../Produtos/indexProdutos.php">Produtos</a>
+            <a href="../Pedidos/indexPedidos.php">Pedidos</a>
+            <a href="../Carrinho/indexCarrinho.php">Carrinho</a>
+            <a href="../indexAdministrador.php" class="active">Administrador</a>
         </div>
         
         <div style="padding:30px;margin-top:50px;">

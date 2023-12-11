@@ -57,7 +57,7 @@
                     ?>
                             <td>
                                 <a href="detalheProduto.php?id_produto=<?=$registro["id_produto"];?>">Ver</a>
-                                <a href="indexCarrinho.php?id_produto=<?=$registro["id_produto"];?>d">Comprar</a>
+                                <a href="indexCarrinho.php?id_produto=<?=$registro["id_produto"];?>">Comprar</a>
                             </td>
                         </tr>
                     <?php
